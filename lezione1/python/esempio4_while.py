@@ -10,10 +10,10 @@ print("lato=" + str(lato))
 # Calcoliamo l'area del quadrato
 area = lato * lato
 
-# Stampiamo la domanda e memorizziamo la risposta da input
+# Stampiamo la domanda e memorizziamo la risposta da input come un intero
 print("Qual e' l'area del quadrato di lato " + str(lato) + "?")
 
-risposta = input()
+risposta = int(input())
 
 while(risposta != area):
     # Se la risposta e' diversa dall'area calcolata
@@ -22,6 +22,6 @@ while(risposta != area):
 
     print("Qual e' l'area del quadrato di lato " + str(lato) + "?")
 
-    risposta = input()
+    risposta = int(input())
 
 print("Bene! Risposta giusta.")

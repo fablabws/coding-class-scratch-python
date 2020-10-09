@@ -1,7 +1,7 @@
 print("Dimmi un numero")
 
-# "Prendo" la risposta attraverso un azione di ingresso input()
-numero = input()
+# "Prendo" la risposta attraverso un azione di ingresso input() e la trasformo in un intero int()
+numero = int(input())
 
 # Uso l'operatore % per ottenere il resto della divisione numero/2
 # Confronto il resto della divisione per verificare che sia uguale (==) 0
