@@ -29,4 +29,4 @@ python lezione1/python/esempio1.py
 
 - [Eventbrite](https://www.eventbrite.it/e/biglietti-coding-class-da-scratch-a-python-122531351571)
 
-- [Facebook] (https://www.facebook.com/events/329807401458000)
+- [Facebook](https://www.facebook.com/events/329807401458000)
