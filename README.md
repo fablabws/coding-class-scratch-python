@@ -5,7 +5,7 @@ Esempi svolti durante l'evento ***Coding Class: Da Scratch a Python***
 
 - [Video prima lezione](https://www.facebook.com/FabLabWS/videos/693426197948061)
 
-- [Diretta Video seconda lezione](https://www.facebook.com/FabLabWS/posts/1434916663384240)
+- [Video seconda lezione](https://www.facebook.com/FabLabWS/videos/337822897482681)
 
 - [Eventbrite](https://www.eventbrite.it/e/biglietti-coding-class-da-scratch-a-python-122531351571)
 
